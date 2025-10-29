@@ -88,9 +88,9 @@ src/
 
 ---
 
-## 📸 Optional (Add a Screenshot)
 
-Take a screenshot of your console showing:
+
+ Screenshot of console window:
 ```
 Added to cart: Mango : Rs 16
 _____________
